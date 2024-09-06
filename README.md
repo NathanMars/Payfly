@@ -1,7 +1,6 @@
-Sistema de Controle Financeiro
+Sistema de Controle Financeiro desenvolvido como trabalho academico no curso de Sistemas de Informação.
+Este é um clone do repositório original onde alterações pessoais minhas serão feitas.
 
 Visite o sistema aqui https://guilhermelvc.github.io/payfly.github.io/
 
-A página inicial e de login são apenas ilustrativas
-
-Desenvolvedores: [Beatriz Moraes](https://github.com/aMoraesBeatriz), [Guilherme Carvalho](https://github.com/guilhermelvc), [Nathan Marques](https://github.com/NathanMars).
+Desenvolvedores: [NathanMars](https://github.com/NathanMars), [aMoraesBeatriz](https://github.com/aMoraesBeatriz), [guilhermelvc](https://github.com/guilhermelvc).
